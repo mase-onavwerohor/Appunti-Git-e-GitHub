@@ -11,4 +11,9 @@ Un *repository* contiene tutti i *file* del progetto e la cronologia delle revis
 
 ### Come creare un repository
 
-### Come clonare un repository
+Se si ha installato il programma `Git` nel proprio *computer*, si può invocare il programma da riga di comando (*shell* o *prompt* o *terminale*), si usa:
+
+```sh
+git init
+```
+Il comando crea una *directory* (cartella) di nome `.git` che conterrà tutte le informazioni sul progetto.
